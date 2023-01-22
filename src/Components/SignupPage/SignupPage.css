@@ -1,0 +1,106 @@
+.outerdiv{
+    padding-left: 37%;
+    padding-right: 50%;
+}
+.maindiv{
+    border: 1px solid #DBDBDB;
+    background-color: white;
+    height: 520px;
+    width: 270px;
+    padding: 20px;
+    padding-top: 0px;
+    margin-top: 10px;
+    text-align: center;
+}
+.logo{
+    width: 175px;
+    margin-top: 15px;
+}
+.text{
+    color:#6e6c6c;
+}
+.facebookbutton{
+    width: 270px;
+    height: 36px;
+    border-radius: 9px;
+    border: 1px solid #0395F6;
+    font-weight: bold;
+    background-color: rgb(10, 141, 216);
+    color: white;
+    margin-top: 10px;
+}
+.or{
+    color: rgb(192, 190, 190);
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.hr{
+    color: #DBDBDB;
+    display: inline-block;
+    width: 110px;
+    margin-top: 20px;
+    
+}
+.signuppage_text{
+    width: 245px;
+    height: 32px;
+    margin: 3px;
+    border: 1px solid #DBDBDB;
+    background-color: #FAFAFA;
+    padding-left: 10px;
+    border-radius: 3px;
+}
+.lowertext{
+    color: #6e6c6c;
+    font-size: 12px;
+    padding: 0px;
+    text-align: center;
+}
+.lowertextspan{
+    color: #383737;
+    font-weight: bold;
+}
+.signupbutton{
+    width: 270px;
+    height: 30px;
+    border-radius: 9px;
+    border: 1px solid #0395F6;
+    font-weight: bold;
+    background-color: rgb(12, 165, 253);
+    color: white;
+    margin-top: 0px;
+}
+.lowerdiv{
+    text-align: center;
+    height: 150px;
+    width: 310px;
+}
+.signuppage_app{
+    font-size: 13px;
+    margin-top: 25px;
+}
+.appImage{
+    width:130px;
+    padding: 3px;
+}
+.signuppage_appbutton{
+    margin-top: 12px;
+}
+.middlediv{
+    padding: 15px;
+    border: 1px solid #DBDBDB;
+    margin-top: 10px;
+    text-align: center;
+    background-color: white;
+    height: 30px;
+    width: 280px;
+    font-size: 13px;
+}
+login{
+    color: #0395F6;
+    font-family: Cambria;
+    font-weight: bold;
+    padding-left: 4px;
+    text-decoration: none;
+}
